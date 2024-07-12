@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+
+}
+
+.Navegação {
+    color: rgb(97, 0, 0);
+}
+
+.col {
+    color:rgb(97, 0, 0);
+    
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
